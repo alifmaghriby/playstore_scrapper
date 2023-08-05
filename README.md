@@ -6,7 +6,7 @@ import pandas as pd
 
 import numpy as np
 
-# Scrape All available reviews 
+# Scrape All available reviews
 #(IF YOU WANT TO SCRAPE ALL AVAILABLE REVIEWS)
 
 from google_play_scraper import Sort, reviews_all
